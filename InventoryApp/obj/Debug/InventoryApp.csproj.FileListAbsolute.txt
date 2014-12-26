@@ -1,0 +1,275 @@
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\InventoryApp.dll.config
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\InventoryApp.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Http.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Http.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\obj\Debug\InventoryApp.dll
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ClientInformations.resources
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateclientinformation.resources
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.createdatetime.resources
+C:\Users\Hafiz\Desktop\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\InventoryApp.dll.config
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\InventoryApp.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Http.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Http.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ClientInformations.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateclientinformation.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.createdatetime.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.SupplierInformations.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ItemCtegorys.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\Version-2(Sinfo)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateitemcategorys.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\InventoryApp.dll.config
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\InventoryApp.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Http.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Http.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ClientInformations.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateclientinformation.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.createdatetime.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.SupplierInformations.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ItemCtegorys.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateitemcategorys.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.iteminformations.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateiteminformations.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.itemtypes.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.uoms.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagment\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateitemsWithTypeAndUom.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\InventoryApp.dll.config
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\InventoryApp.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Http.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Http.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ClientInformations.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateclientinformation.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.createdatetime.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.SupplierInformations.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ItemCtegorys.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateitemcategorys.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.iteminformations.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateiteminformations.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.itemtypes.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.uoms.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateitemsWithTypeAndUom.resources
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.dll
+C:\Users\Hafiz\Desktop\Inventory Resourses\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\InventoryApp.dll.config
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\InventoryApp.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Http.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Http.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ClientInformations.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateclientinformation.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.createdatetime.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.SupplierInformations.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ItemCtegorys.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateitemcategorys.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.iteminformations.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateiteminformations.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.itemtypes.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.uoms.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateitemsWithTypeAndUom.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\RdlCompile.cache
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\RdlCompile.compiled
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\InventoryApp.dll.config
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\InventoryApp.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\InventoryApp.pdb
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Http.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Http.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ClientInformations.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateclientinformation.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.createdatetime.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.SupplierInformations.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.ItemCtegorys.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateitemcategorys.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.iteminformations.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateiteminformations.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.itemtypes.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.uoms.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Migrations.updateitemsWithTypeAndUom.resources
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\RdlCompile.cache
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\RdlCompile.compiled
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.dll
+C:\Users\Hafiz\Desktop\New Inventory Managment resource\InventoryManagemnt\Inventory managment(RDLC)\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<InventoryApp.Models.ItemInformation>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<p style="float: right"><a href="/Reports/ReportView/ItemInfoWebForm.aspx">Report</a></p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemCategory.ItemCategoryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemType.ItemName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Uom.UomName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Remarks)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemCategory.ItemCategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemType.ItemName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Uom.UomName)
+            </td>     
+            <td>
+                @Html.DisplayFor(modelItem => item.Remarks)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ItemInformationId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ItemInformationId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ItemInformationId })
+            </td>
+        </tr>
+    }
+
+</table>
