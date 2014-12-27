@@ -1,0 +1,7 @@
+﻿@model InventoryApp.Models.PriceSetup
+
+@Html.LabelFor(model => model.ItemInformationId, "ItemInformationId", new { @class = "control-label col-md-2" })
+<div class="col-md-10">
+    @Html.DropDownList("ItemInformationId", "Please Select One Item")
+    @Html.ValidationMessageFor(model => model.ItemInformationId)
+</div>

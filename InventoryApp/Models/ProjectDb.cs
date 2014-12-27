@@ -19,6 +19,7 @@ namespace InventoryApp.Models
             public DbSet<ItemInformation> ItemInformations { get; set; }
             public DbSet<ItemType> ItemTypes { get; set; }
             public DbSet<Uom> Uoms { get; set; }
+            public DbSet<PriceSetup> PriceSetups { get; set; }
         }
     
 }

@@ -69,14 +69,16 @@ namespace InventoryApp.Migrations
             //uoms.ForEach(s => context.Uoms.AddOrUpdate(s));
             //context.SaveChanges();
 
-            var itemInformations = new List<ItemInformation>
+
+            var priceSetups = new List<PriceSetup>
             {              
-             new ItemInformation{ItemCode = "I01",ItemName = "Coca-Cola",Remarks = "5Pcs",ItemCategoryId = 1,ItemTypeId = 1,UomId = 1},
-             new ItemInformation{ItemCode = "I02",ItemName = "Nickon Pen",Remarks = "12pcs",ItemCategoryId = 2,ItemTypeId = 2,UomId = 2},
-             new ItemInformation{ItemCode = "I03",ItemName = "Iphone4",Remarks = "2pcs",ItemCategoryId = 3,ItemTypeId = 3,UomId = 3}
+             new PriceSetup{ItemCategoryId = 1,ItemInformationId = 1,UnitPrice = 200,Vat = 10,VatPrice = 20},
+              new PriceSetup{ItemCategoryId = 1,ItemInformationId = 2,UnitPrice = 400,Vat = 10,VatPrice = 40},
+               new PriceSetup{ItemCategoryId = 2,ItemInformationId = 3,UnitPrice = 60000,Vat = 5,VatPrice = 3000}
+            
 
             };
-            itemInformations.ForEach(s => context.ItemInformations.AddOrUpdate(s));
+            priceSetups.ForEach(s => context.PriceSetups.AddOrUpdate(s));
             context.SaveChanges();
 
         }

@@ -21,6 +21,7 @@ namespace InventoryApp.Models
         public string ItemCategoryName { get; set; }
         public string Remarks { get; set; }
         public virtual ICollection<ItemInformation> ItemInformations { get; set; }
+        public virtual ICollection<PriceSetup> PriceSetups{ get; set; }
 
     }
 }

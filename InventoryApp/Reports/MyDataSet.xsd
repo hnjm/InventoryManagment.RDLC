@@ -165,6 +165,40 @@ FROM            ItemInformations INNER JOIN
             </Mappings>
             <Sources />
           </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PriceSetupsTableAdapter" GeneratorDataComponentClassName="PriceSetupsTableAdapter" Name="PriceSetups" UserDataComponentName="PriceSetupsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="inventoryProject (Web.config)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        PriceSetups.PriceSetupId, PriceSetups.ItemCategoryId, PriceSetups.ItemInformationId, PriceSetups.UnitPrice, PriceSetups.Vat, PriceSetups.VatPrice, ItemCategories.ItemCategoryId AS Expr1, 
+                         ItemCategories.ItemCategoryCode, ItemCategories.ItemCategoryName, ItemCategories.Remarks, ItemInformations.ItemInformationId AS Expr2, ItemInformations.ItemCode, ItemInformations.ItemName, 
+                         ItemInformations.Remarks AS Expr3
+FROM            PriceSetups INNER JOIN
+                         ItemCategories ON PriceSetups.ItemCategoryId = ItemCategories.ItemCategoryId INNER JOIN
+                         ItemInformations ON PriceSetups.ItemInformationId = ItemInformations.ItemInformationId AND ItemCategories.ItemCategoryId = ItemInformations.ItemCategoryId</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="PriceSetupId" DataSetColumn="PriceSetupId" />
+              <Mapping SourceColumn="ItemCategoryId" DataSetColumn="ItemCategoryId" />
+              <Mapping SourceColumn="ItemInformationId" DataSetColumn="ItemInformationId" />
+              <Mapping SourceColumn="UnitPrice" DataSetColumn="UnitPrice" />
+              <Mapping SourceColumn="Vat" DataSetColumn="Vat" />
+              <Mapping SourceColumn="VatPrice" DataSetColumn="VatPrice" />
+              <Mapping SourceColumn="Expr1" DataSetColumn="Expr1" />
+              <Mapping SourceColumn="ItemCategoryCode" DataSetColumn="ItemCategoryCode" />
+              <Mapping SourceColumn="ItemCategoryName" DataSetColumn="ItemCategoryName" />
+              <Mapping SourceColumn="Remarks" DataSetColumn="Remarks" />
+              <Mapping SourceColumn="Expr2" DataSetColumn="Expr2" />
+              <Mapping SourceColumn="ItemCode" DataSetColumn="ItemCode" />
+              <Mapping SourceColumn="ItemName" DataSetColumn="ItemName" />
+              <Mapping SourceColumn="Expr3" DataSetColumn="Expr3" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
         </Tables>
         <Sources />
       </DataSource>
@@ -173,7 +207,7 @@ FROM            ItemInformations INNER JOIN
   <xs:element name="MyDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="MyDataSet" msprop:Generator_UserDSName="MyDataSet">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="ClientInformations" msprop:Generator_TableClassName="ClientInformationsDataTable" msprop:Generator_TableVarName="tableClientInformations" msprop:Generator_TablePropName="ClientInformations" msprop:Generator_RowDeletingName="ClientInformationsRowDeleting" msprop:Generator_RowChangingName="ClientInformationsRowChanging" msprop:Generator_RowEvHandlerName="ClientInformationsRowChangeEventHandler" msprop:Generator_RowDeletedName="ClientInformationsRowDeleted" msprop:Generator_UserTableName="ClientInformations" msprop:Generator_RowChangedName="ClientInformationsRowChanged" msprop:Generator_RowEvArgName="ClientInformationsRowChangeEvent" msprop:Generator_RowClassName="ClientInformationsRow">
+        <xs:element name="ClientInformations" msprop:Generator_TableClassName="ClientInformationsDataTable" msprop:Generator_TableVarName="tableClientInformations" msprop:Generator_RowChangedName="ClientInformationsRowChanged" msprop:Generator_TablePropName="ClientInformations" msprop:Generator_RowDeletingName="ClientInformationsRowDeleting" msprop:Generator_RowChangingName="ClientInformationsRowChanging" msprop:Generator_RowEvHandlerName="ClientInformationsRowChangeEventHandler" msprop:Generator_RowDeletedName="ClientInformationsRowDeleted" msprop:Generator_RowClassName="ClientInformationsRow" msprop:Generator_UserTableName="ClientInformations" msprop:Generator_RowEvArgName="ClientInformationsRowChangeEvent">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="ClientInformationId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnClientInformationId" msprop:Generator_ColumnPropNameInRow="ClientInformationId" msprop:Generator_ColumnPropNameInTable="ClientInformationIdColumn" msprop:Generator_UserColumnName="ClientInformationId" type="xs:int" />
@@ -223,7 +257,7 @@ FROM            ItemInformations INNER JOIN
             </xs:sequence>
           </xs:complexType>
         </xs:element>
-        <xs:element name="SupplierInformations" msprop:Generator_TableClassName="SupplierInformationsDataTable" msprop:Generator_TableVarName="tableSupplierInformations" msprop:Generator_RowChangedName="SupplierInformationsRowChanged" msprop:Generator_TablePropName="SupplierInformations" msprop:Generator_RowDeletingName="SupplierInformationsRowDeleting" msprop:Generator_RowChangingName="SupplierInformationsRowChanging" msprop:Generator_RowEvHandlerName="SupplierInformationsRowChangeEventHandler" msprop:Generator_RowDeletedName="SupplierInformationsRowDeleted" msprop:Generator_RowClassName="SupplierInformationsRow" msprop:Generator_UserTableName="SupplierInformations" msprop:Generator_RowEvArgName="SupplierInformationsRowChangeEvent">
+        <xs:element name="SupplierInformations" msprop:Generator_TableClassName="SupplierInformationsDataTable" msprop:Generator_TableVarName="tableSupplierInformations" msprop:Generator_TablePropName="SupplierInformations" msprop:Generator_RowDeletingName="SupplierInformationsRowDeleting" msprop:Generator_RowChangingName="SupplierInformationsRowChanging" msprop:Generator_RowEvHandlerName="SupplierInformationsRowChangeEventHandler" msprop:Generator_RowDeletedName="SupplierInformationsRowDeleted" msprop:Generator_UserTableName="SupplierInformations" msprop:Generator_RowChangedName="SupplierInformationsRowChanged" msprop:Generator_RowEvArgName="SupplierInformationsRowChangeEvent" msprop:Generator_RowClassName="SupplierInformationsRow">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="SupplierInformationId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnSupplierInformationId" msprop:Generator_ColumnPropNameInRow="SupplierInformationId" msprop:Generator_ColumnPropNameInTable="SupplierInformationIdColumn" msprop:Generator_UserColumnName="SupplierInformationId" type="xs:int" />
@@ -273,7 +307,7 @@ FROM            ItemInformations INNER JOIN
             </xs:sequence>
           </xs:complexType>
         </xs:element>
-        <xs:element name="ItemInformations" msprop:Generator_TableClassName="ItemInformationsDataTable" msprop:Generator_TableVarName="tableItemInformations" msprop:Generator_TablePropName="ItemInformations" msprop:Generator_RowDeletingName="ItemInformationsRowDeleting" msprop:Generator_RowChangingName="ItemInformationsRowChanging" msprop:Generator_RowEvHandlerName="ItemInformationsRowChangeEventHandler" msprop:Generator_RowDeletedName="ItemInformationsRowDeleted" msprop:Generator_UserTableName="ItemInformations" msprop:Generator_RowChangedName="ItemInformationsRowChanged" msprop:Generator_RowEvArgName="ItemInformationsRowChangeEvent" msprop:Generator_RowClassName="ItemInformationsRow">
+        <xs:element name="ItemInformations" msprop:Generator_TableClassName="ItemInformationsDataTable" msprop:Generator_TableVarName="tableItemInformations" msprop:Generator_RowChangedName="ItemInformationsRowChanged" msprop:Generator_TablePropName="ItemInformations" msprop:Generator_RowDeletingName="ItemInformationsRowDeleting" msprop:Generator_RowChangingName="ItemInformationsRowChanging" msprop:Generator_RowEvHandlerName="ItemInformationsRowChangeEventHandler" msprop:Generator_RowDeletedName="ItemInformationsRowDeleted" msprop:Generator_RowClassName="ItemInformationsRow" msprop:Generator_UserTableName="ItemInformations" msprop:Generator_RowEvArgName="ItemInformationsRowChangeEvent">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="ItemInformationId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnItemInformationId" msprop:Generator_ColumnPropNameInRow="ItemInformationId" msprop:Generator_ColumnPropNameInTable="ItemInformationIdColumn" msprop:Generator_UserColumnName="ItemInformationId" type="xs:int" />
@@ -342,6 +376,62 @@ FROM            ItemInformations INNER JOIN
             </xs:sequence>
           </xs:complexType>
         </xs:element>
+        <xs:element name="PriceSetups" msprop:Generator_TableClassName="PriceSetupsDataTable" msprop:Generator_TableVarName="tablePriceSetups" msprop:Generator_TablePropName="PriceSetups" msprop:Generator_RowDeletingName="PriceSetupsRowDeleting" msprop:Generator_RowChangingName="PriceSetupsRowChanging" msprop:Generator_RowEvHandlerName="PriceSetupsRowChangeEventHandler" msprop:Generator_RowDeletedName="PriceSetupsRowDeleted" msprop:Generator_UserTableName="PriceSetups" msprop:Generator_RowChangedName="PriceSetupsRowChanged" msprop:Generator_RowEvArgName="PriceSetupsRowChangeEvent" msprop:Generator_RowClassName="PriceSetupsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PriceSetupId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnPriceSetupId" msprop:Generator_ColumnPropNameInRow="PriceSetupId" msprop:Generator_ColumnPropNameInTable="PriceSetupIdColumn" msprop:Generator_UserColumnName="PriceSetupId" type="xs:int" />
+              <xs:element name="ItemCategoryId" msprop:Generator_ColumnVarNameInTable="columnItemCategoryId" msprop:Generator_ColumnPropNameInRow="ItemCategoryId" msprop:Generator_ColumnPropNameInTable="ItemCategoryIdColumn" msprop:Generator_UserColumnName="ItemCategoryId" type="xs:int" />
+              <xs:element name="ItemInformationId" msprop:Generator_ColumnVarNameInTable="columnItemInformationId" msprop:Generator_ColumnPropNameInRow="ItemInformationId" msprop:Generator_ColumnPropNameInTable="ItemInformationIdColumn" msprop:Generator_UserColumnName="ItemInformationId" type="xs:int" />
+              <xs:element name="UnitPrice" msprop:Generator_ColumnVarNameInTable="columnUnitPrice" msprop:Generator_ColumnPropNameInRow="UnitPrice" msprop:Generator_ColumnPropNameInTable="UnitPriceColumn" msprop:Generator_UserColumnName="UnitPrice" type="xs:double" />
+              <xs:element name="Vat" msprop:Generator_ColumnVarNameInTable="columnVat" msprop:Generator_ColumnPropNameInRow="Vat" msprop:Generator_ColumnPropNameInTable="VatColumn" msprop:Generator_UserColumnName="Vat" type="xs:double" />
+              <xs:element name="VatPrice" msprop:Generator_ColumnVarNameInTable="columnVatPrice" msprop:Generator_ColumnPropNameInRow="VatPrice" msprop:Generator_ColumnPropNameInTable="VatPriceColumn" msprop:Generator_UserColumnName="VatPrice" type="xs:double" />
+              <xs:element name="Expr1" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnExpr1" msprop:Generator_ColumnPropNameInRow="Expr1" msprop:Generator_ColumnPropNameInTable="Expr1Column" msprop:Generator_UserColumnName="Expr1" type="xs:int" />
+              <xs:element name="ItemCategoryCode" msprop:Generator_ColumnVarNameInTable="columnItemCategoryCode" msprop:Generator_ColumnPropNameInRow="ItemCategoryCode" msprop:Generator_ColumnPropNameInTable="ItemCategoryCodeColumn" msprop:Generator_UserColumnName="ItemCategoryCode">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ItemCategoryName" msprop:Generator_ColumnVarNameInTable="columnItemCategoryName" msprop:Generator_ColumnPropNameInRow="ItemCategoryName" msprop:Generator_ColumnPropNameInTable="ItemCategoryNameColumn" msprop:Generator_UserColumnName="ItemCategoryName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remarks" msprop:Generator_ColumnVarNameInTable="columnRemarks" msprop:Generator_ColumnPropNameInRow="Remarks" msprop:Generator_ColumnPropNameInTable="RemarksColumn" msprop:Generator_UserColumnName="Remarks" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Expr2" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnExpr2" msprop:Generator_ColumnPropNameInRow="Expr2" msprop:Generator_ColumnPropNameInTable="Expr2Column" msprop:Generator_UserColumnName="Expr2" type="xs:int" />
+              <xs:element name="ItemCode" msprop:Generator_ColumnVarNameInTable="columnItemCode" msprop:Generator_ColumnPropNameInRow="ItemCode" msprop:Generator_ColumnPropNameInTable="ItemCodeColumn" msprop:Generator_UserColumnName="ItemCode">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ItemName" msprop:Generator_ColumnVarNameInTable="columnItemName" msprop:Generator_ColumnPropNameInRow="ItemName" msprop:Generator_ColumnPropNameInTable="ItemNameColumn" msprop:Generator_UserColumnName="ItemName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Expr3" msprop:Generator_ColumnVarNameInTable="columnExpr3" msprop:Generator_ColumnPropNameInRow="Expr3" msprop:Generator_ColumnPropNameInTable="Expr3Column" msprop:Generator_UserColumnName="Expr3" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
       </xs:choice>
     </xs:complexType>
     <xs:unique name="Constraint1" msdata:PrimaryKey="true">
@@ -358,6 +448,12 @@ FROM            ItemInformations INNER JOIN
       <xs:field xpath="mstns:Expr1" />
       <xs:field xpath="mstns:Expr3" />
       <xs:field xpath="mstns:Expr5" />
+    </xs:unique>
+    <xs:unique name="PriceSetups_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:PriceSetups" />
+      <xs:field xpath="mstns:PriceSetupId" />
+      <xs:field xpath="mstns:Expr1" />
+      <xs:field xpath="mstns:Expr2" />
     </xs:unique>
   </xs:element>
 </xs:schema>

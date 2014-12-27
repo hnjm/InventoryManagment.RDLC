@@ -29,6 +29,7 @@ namespace InventoryApp.Models
         public int UomId { get; set; }
         public virtual Uom Uom { get; set; }
         public string Remarks { get; set; }
+        public virtual ICollection<PriceSetup> PriceSetups { get; set; }
 
     }
 }

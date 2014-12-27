@@ -136,6 +136,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ItemCategoryController.cs" />
     <Compile Include="Controllers\ItemInformationController.cs" />
+    <Compile Include="Controllers\PriceSetupController.cs" />
     <Compile Include="Controllers\SupplierInformationController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -184,11 +185,16 @@
     <Compile Include="Migrations\201412231112229_update-itemsWithTypeAndUom.Designer.cs">
       <DependentUpon>201412231112229_update-itemsWithTypeAndUom.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201412270458381_pricesetups.cs" />
+    <Compile Include="Migrations\201412270458381_pricesetups.Designer.cs">
+      <DependentUpon>201412270458381_pricesetups.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\ClientInformation.cs" />
     <Compile Include="Models\ItemCategory.cs" />
     <Compile Include="Models\ItemInformation.cs" />
     <Compile Include="Models\ItemType.cs" />
+    <Compile Include="Models\PriceSetup.cs" />
     <Compile Include="Models\ProjectDb.cs" />
     <Compile Include="Models\SupplierInformation.cs" />
     <Compile Include="Models\Uom.cs" />
@@ -211,6 +217,13 @@
     </Compile>
     <Compile Include="Reports\ReportView\ItemInfoWebForm.aspx.designer.cs">
       <DependentUpon>ItemInfoWebForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ReportView\PriceSetupWebForm.aspx.cs">
+      <DependentUpon>PriceSetupWebForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reports\ReportView\PriceSetupWebForm.aspx.designer.cs">
+      <DependentUpon>PriceSetupWebForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="Reports\ReportView\SupplierInfoWebForm.aspx.cs">
       <DependentUpon>SupplierInfoWebForm.aspx</DependentUpon>
@@ -236,6 +249,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Reports\ReportView\ClientInfoWebForm.aspx" />
     <Content Include="Reports\ReportView\ItemInfoWebForm.aspx" />
+    <Content Include="Reports\ReportView\PriceSetupWebForm.aspx" />
     <Content Include="Reports\ReportView\SupplierInfoWebForm.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -298,6 +312,12 @@
     <Content Include="Views\ItemInformation\Details.cshtml" />
     <Content Include="Views\ItemInformation\Edit.cshtml" />
     <Content Include="Views\ItemInformation\Index.cshtml" />
+    <Content Include="Views\PriceSetup\Create.cshtml" />
+    <Content Include="Views\PriceSetup\Delete.cshtml" />
+    <Content Include="Views\PriceSetup\Details.cshtml" />
+    <Content Include="Views\PriceSetup\Edit.cshtml" />
+    <Content Include="Views\PriceSetup\Index.cshtml" />
+    <Content Include="Views\Shared\_PartialCreate.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -340,8 +360,12 @@
     <EmbeddedResource Include="Migrations\201412231112229_update-itemsWithTypeAndUom.resx">
       <DependentUpon>201412231112229_update-itemsWithTypeAndUom.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201412270458381_pricesetups.resx">
+      <DependentUpon>201412270458381_pricesetups.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Reports\Report\ClientInfo.rdlc" />
     <EmbeddedResource Include="Reports\Report\ItemInfoReport.rdlc" />
+    <EmbeddedResource Include="Reports\Report\PriceSetupReport.rdlc" />
     <EmbeddedResource Include="Reports\Report\SupplierInfoReport.rdlc" />
   </ItemGroup>
   <PropertyGroup>
